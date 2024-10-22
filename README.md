@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/LoanTap.svg" alt="LoanTap Logo" width="400" height="200">
+  <img src="images/LoanTap.svg" alt="LoanTap Logo" width="400" height="100">
 </p>
 
 <h1 align="center">LoanTap Credit Risk Analysis</h1>
