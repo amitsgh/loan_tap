@@ -133,6 +133,11 @@ The project follows a structured machine-learning pipeline:
   - **Loan Income Ratio**: The ratio of the loan amount to the borrower’s income is critical, with higher ratios signaling higher default risks.
   - **Debt-to-Income Ratio (DTI)**: Although it has lower importance compared to other features, DTI still plays a role, as high DTI increases default likelihood.
 
+  #### **Visualizing Feature Importance**:
+    - Feature Importance from XGBoost Classifier:
+      ![Feature Importance XGBoost](images/feature_importance.png)
+
+
 ---
 
 ## 🔍 Insights and Recommendations:
